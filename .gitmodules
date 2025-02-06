@@ -1,0 +1,4 @@
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = git@github.com:becodeorg/Moodle-Attendance-Plugin.git
+	branch = MOODLE_402_STABLE
