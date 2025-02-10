@@ -2,3 +2,6 @@
 	path = mod/attendance
 	url = https://github.com/becodeorg/Moodle-Attendance-Plugin.git
 	branch = MOODLE_402_STABLE
+[submodule "local/github_student_pack"]
+	path = local/github_student_pack
+	url = git@github.com:becodeorg/moodle_github_student_pack.git
