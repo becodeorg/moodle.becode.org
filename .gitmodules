@@ -8,3 +8,4 @@
 [submodule "theme/becode"]
 	path = theme/becode
 	url = git@github.com-becodeorg-theme:becodeorg/moodle_boost_theme.git
+	branch = main
