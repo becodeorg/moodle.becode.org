@@ -9,3 +9,6 @@
 	path = theme/becode
 	url = git@github.com-becodeorg-theme:becodeorg/moodle_boost_theme.git
 	branch = main
+[submodule "local/jobboard"]
+	path = local/jobboard
+	url = git@github.com-becodeorg-jobs:becodeorg/moodle_job_board.git
