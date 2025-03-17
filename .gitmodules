@@ -9,3 +9,6 @@
 	path = theme/becode
 	url = git@github.com-becodeorg-theme:becodeorg/moodle_boost_theme.git
 	branch = main
+[submodule "mod/punchclock"]
+	path = mod/punchclock
+	url = git@github.com-becodeorg-clock:becodeorg-clock/punchclock.git
